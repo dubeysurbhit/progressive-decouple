@@ -1,0 +1,12 @@
+name: PDB React
+type: module
+description: 'Turns on react framework for use by PDB'
+package: PDB
+core_version_requirement: ^8 || ^9
+dependencies:
+  - pdb
+
+# Information added by Drupal.org packaging script on 2021-01-20
+version: '8.x-1.0-alpha7'
+project: 'pdb'
+datestamp: 1611102236

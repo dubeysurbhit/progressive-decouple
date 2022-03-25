@@ -1,0 +1,14 @@
+name: NG2 Example 2
+machine_name: ng2-example-2
+type: pdb
+description: 'NG 2 Example Component 2'
+category: NG2
+# version: '1.0.0'
+core_version_requirement: ^8 || ^9
+module_status: active
+presentation: ng2
+
+# Information added by Drupal.org packaging script on 2021-01-20
+version: '8.x-1.0-alpha7'
+project: 'pdb'
+datestamp: 1611102236

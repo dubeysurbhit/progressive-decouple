@@ -1,0 +1,17 @@
+name: React Example
+machine_name: react-example-1
+type: pdb
+description: 'React Example Component 1'
+category: React
+# version: '1.0.0'
+core_version_requirement: ^8 || ^9
+module_status: active
+presentation: react
+add_js:
+  footer:
+    'react-example-1.js': {}
+
+# Information added by Drupal.org packaging script on 2021-01-20
+version: '8.x-1.0-alpha7'
+project: 'pdb'
+datestamp: 1611102236

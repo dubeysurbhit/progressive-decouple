@@ -1,0 +1,5 @@
+name: React Example Module
+type: module
+description: 'A Module that loads React JavaScript libraries, and a basic React application.'
+core: 8.x
+core_version_requirement: ^8 || ^9

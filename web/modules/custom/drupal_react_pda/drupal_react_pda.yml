@@ -1,0 +1,4 @@
+name: Drupal React PDA
+type: module
+description: This module render a block using react.
+core_version_requirement: ^8.8.0 || ^9

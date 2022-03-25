@@ -1,0 +1,4 @@
+drupal-react-pda-libraries:
+  version: 1.0
+  js:
+    assets/js/drupal_react_pda.js: {}
